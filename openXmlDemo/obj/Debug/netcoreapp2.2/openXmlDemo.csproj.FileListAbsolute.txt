@@ -1,0 +1,11 @@
+C:\Users\Gaurav Koli\source\repos\openXmlDemo\openXmlDemo\bin\Debug\netcoreapp2.2\openXmlDemo.deps.json
+C:\Users\Gaurav Koli\source\repos\openXmlDemo\openXmlDemo\bin\Debug\netcoreapp2.2\openXmlDemo.runtimeconfig.json
+C:\Users\Gaurav Koli\source\repos\openXmlDemo\openXmlDemo\bin\Debug\netcoreapp2.2\openXmlDemo.runtimeconfig.dev.json
+C:\Users\Gaurav Koli\source\repos\openXmlDemo\openXmlDemo\bin\Debug\netcoreapp2.2\openXmlDemo.dll
+C:\Users\Gaurav Koli\source\repos\openXmlDemo\openXmlDemo\obj\Debug\netcoreapp2.2\openXmlDemo.csprojAssemblyReference.cache
+C:\Users\Gaurav Koli\source\repos\openXmlDemo\openXmlDemo\obj\Debug\netcoreapp2.2\openXmlDemo.csproj.CoreCompileInputs.cache
+C:\Users\Gaurav Koli\source\repos\openXmlDemo\openXmlDemo\obj\Debug\netcoreapp2.2\openXmlDemo.AssemblyInfoInputs.cache
+C:\Users\Gaurav Koli\source\repos\openXmlDemo\openXmlDemo\obj\Debug\netcoreapp2.2\openXmlDemo.AssemblyInfo.cs
+C:\Users\Gaurav Koli\source\repos\openXmlDemo\openXmlDemo\bin\Debug\netcoreapp2.2\openXmlDemo.pdb
+C:\Users\Gaurav Koli\source\repos\openXmlDemo\openXmlDemo\obj\Debug\netcoreapp2.2\openXmlDemo.dll
+C:\Users\Gaurav Koli\source\repos\openXmlDemo\openXmlDemo\obj\Debug\netcoreapp2.2\openXmlDemo.pdb
