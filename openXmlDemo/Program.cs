@@ -32,7 +32,7 @@ namespace openXmlDemo
        
         private static void ReplaceParagraphParts(OpenXmlElement element, WordprocessingDocument wordDocument)
         {
-            int i = 1;
+            //int i = 1;
          
             // Getting all Paragraph in Xml File
 
